@@ -1,16 +1,17 @@
 # Ladder to Wine
 
 ## 1. 프로젝트 정보
-> - 개발 기간:
+> 개발 기간: 2022.06.02 ~ 2022.06.13
 
-> - 팀원: 엄관용, 나성근, 이동현, 한건희
+> 팀원: 엄관용, 나성근, 이동현, 한건희
 
 ## 2. 사용 기술
 > Python 3  
 > Django 4.0.5  
 > MySQL  
+> pandas 
+> numpy  
 
-> Javascript
 > HTML
 > CSS
 
@@ -22,10 +23,6 @@
 - 핵심
 
 - 그 외
-
-
-노션 
-https://www.notion.so/Team-Ladder-6d5dfdecb8454b04bc0a1ffc7c5de825
 
 캐글 
 https://www.kaggle.com/code/dev7halo/similarity
