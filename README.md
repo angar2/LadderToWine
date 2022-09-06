@@ -1,21 +1,29 @@
 # Ladder to Wine
 
 # 1. 프로젝트 정보
-> 개발 기간: 2022.06.02 ~ 2022.06.13
+> ### 프로젝트 소개
+- ***와인 판매 서비스***
 
-> 팀 프로젝트(4인)
+> ### 개발 기간
+- 2022.06.02 ~ 2022.06.13
+
+> ### 프로젝트 형태
+- 팀 프로젝트(4인)
 
 <br>
 
 # 2. 사용 기술
-> Python 3  
-> Django 4.0.5  
-> MySQL  
-> pandas 
-> numpy  
 
-> HTML
-> CSS
+> Back-end
+- Python 3  
+- Django 4.0.5  
+- MySQL  
+- pandas 
+- numpy  
+
+> Front-end
+- HTML
+- CSS
 
 <br>
 
